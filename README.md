@@ -1,6 +1,6 @@
-ICU Capstone (MIMIC-IV Demo) — End-to-End Analytics (Updated Nov 2025)
+MIMIC-IV-ICU-Patient-Outcomes — **End-to-End Data Analytics** (Updated Dec 2025)
 
-This repository contains the complete workflow for the MDS Capstone Project on ICU patient-outcomes analytics using the MIMIC-IV demo dataset. The project implements a full CRISP-DM pipeline - from exploratory data analysis through model evaluation and simulated deployment - to support operational and clinical decision-making at Regional Medical Center (RMC). The analysis focuses on improving ICU performance through reductions in length of stay (LOS), in-hospital mortality, and readmission risk, while identifying patient subgroups with different utilization patterns.
+This repository contains the complete workflow for a master's degree capstone project *focused on modeling and predicting ICU patient outcomes* using the MIMIC-IV demo dataset provided by MIT. This project implements a full Cross-Industry Standard Process for Data Mining (CRISP-DM) pipeline - from exploratory data analysis through model evaluation and simulated deployment - to support operational and clinical decision-making at a fictional hospital, Regional Medical Center (RMC). The analysis focuses on improving ICU performance through reductions in length of stay (LOS), in-hospital mortality, and readmission risk, while identifying patient subgroups with different utilization patterns.
 
 Repository structure:
 ICU_CAPSTONE/
@@ -62,9 +62,9 @@ Getting started:
 2. Create/activate env (choose one)
    Standard Python:
    python -m venv .venv
-   # Windows
+   ### Windows
      .venv\Scripts\activate
-   # macOS/Linux
+   ### macOS/Linux
      source .venv/bin/activate
 3. Install dependencies
    If using pyproject.toml:
@@ -73,7 +73,7 @@ Getting started:
    Place the MIMIC-IV demo CSVs in data/hosp/ and data/icu/.
    Optionally subset using demo_subject_id.csv.
 5. Run notebooks
-   Open with jupyter lab or launch from VS Code under notebooks/.
+   Open with jupyter lab or launch from VS Code under notebooks & analytics/.
 
 Typical Workflow:
    - EDA: Summarize population and identify quality issues
