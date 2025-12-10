@@ -1,7 +1,7 @@
 [project]
-name = "icu-capstone"
+name = "MIMIC-IV-ICU-Patient-Outcomes"
 version = "0.1.0"
-description = "Add your description here"
+description = "Predictive modeling and operational analytics using the MIMIC-IV ICU dataset from MIT."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
