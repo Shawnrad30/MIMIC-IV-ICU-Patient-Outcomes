@@ -101,4 +101,4 @@ Acknowledgments:
 
 AI Dilligence Statement:
 
-In completing this project, I used ChatGPT to assist with writing and editing Python code in the supporting jupyter notebooks. Importantly, all AI-assisted content was carefully reviewed, vetted, and edited by me to ensure accuracy, relevance, and alignment with the project's objectives. I take full responsibility for the content of this repository, including all analyses, interpretations, and conclusions presented. This disclosure is provided in the spirit of transparency and to acknowledge the evolving role of AI tools in academic and professional work.
+In completing this project, I used ChatGPT to assist with writing and editing Python code in the supporting jupyter notebooks. Importantly, all AI-assisted content was carefully reviewed and edited by me to ensure accuracy, relevance, and alignment with the project's objectives. I take full responsibility for the content of this repository, including all analyses, interpretations, and conclusions presented. This disclosure is provided in the spirit of transparency and to acknowledge the evolving role of AI tools in academic and professional work.
