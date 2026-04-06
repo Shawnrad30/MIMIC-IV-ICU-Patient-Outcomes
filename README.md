@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 ICU Capstone (MIMIC-IV Demo) — End-to-End Analytics (Updated Apr 2026)
 
 This repository contains the complete workflow for the MDS Capstone Project on ICU patient-outcomes analytics using the MIMIC-IV demo dataset. The project implements a full CRISP-DM pipeline - from exploratory data analysis through model evaluation and simulated deployment - to support operational and clinical decision-making at Regional Medical Center (RMC). The analysis focuses on improving ICU performance through reductions in length of stay (LOS), in-hospital mortality, and readmission risk, while identifying patient subgroups with different utilization patterns.
-=======
-### MIMIC-IV-ICU-Patient-Outcomes — End-to-End Data Analytics (Updated Dec 2025)
->>>>>>> b1e82daac4414419252b6c110830e8e9c51e5376
 
 This repository contains the complete workflow for a master's degree capstone project ***focused on modeling and predicting ICU patient outcomes*** using the MIMIC-IV demo dataset provided by MIT. This project implements a full Cross-Industry Standard Process for Data Mining (CRISP-DM) pipeline - from exploratory data analysis through model evaluation and simulated deployment - to support operational and clinical decision-making at a fictional hospital, Regional Medical Center (RMC). The analysis focuses on improving ICU performance through reductions in length of stay (LOS), in-hospital mortality, and readmission risk, while identifying patient subgroups with different utilization patterns.
+
 ```
 Repository structure:
 ICU_CAPSTONE/
@@ -108,5 +105,3 @@ ICU_CAPSTONE/
 AI Dilligence Statement:
 
 In completing this project, I used ChatGPT to assist with writing and editing Python code in the supporting jupyter notebooks. Importantly, all AI-assisted content was carefully reviewed, vetted, and edited by me to ensure accuracy, relevance, and alignment with the project's objectives. I take full responsibility for the content of this repository, including all analyses, interpretations, and conclusions presented. This disclosure is provided in the spirit of transparency and to acknowledge the evolving role of AI tools in academic and professional work.
-=======
->>>>>>> b1e82daac4414419252b6c110830e8e9c51e5376
