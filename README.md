@@ -1,4 +1,4 @@
-ICU Capstone (MIMIC-IV Demo) — End-to-End Analytics (Updated Nov 2025)
+ICU Capstone (MIMIC-IV Demo) — End-to-End Analytics (Updated Apr 2026)
 
 This repository contains the complete workflow for the MDS Capstone Project on ICU patient-outcomes analytics using the MIMIC-IV demo dataset. The project implements a full CRISP-DM pipeline - from exploratory data analysis through model evaluation and simulated deployment - to support operational and clinical decision-making at Regional Medical Center (RMC). The analysis focuses on improving ICU performance through reductions in length of stay (LOS), in-hospital mortality, and readmission risk, while identifying patient subgroups with different utilization patterns.
 
@@ -98,3 +98,7 @@ Next Steps:
 Acknowledgments:
    - Data: MIMIC-IV Demo (MIT Laboratory for Computational Physiology, PhysioNet)
    - License: Use compliant with PhysioNet credentialing and data access requirements
+
+AI Dilligence Statement:
+
+In completing this project, I used ChatGPT to assist with writing and editing Python code in the supporting jupyter notebooks. Importantly, all AI-assisted content was carefully reviewed, vetted, and edited by me to ensure accuracy, relevance, and alignment with the project's objectives. I take full responsibility for the content of this repository, including all analyses, interpretations, and conclusions presented. This disclosure is provided in the spirit of transparency and to acknowledge the evolving role of AI tools in academic and professional work.
