@@ -100,7 +100,6 @@ ICU_CAPSTONE/
 ### Acknowledgments:
    - Data: MIMIC-IV Demo (MIT Laboratory for Computational Physiology, PhysioNet)
    - License: Use compliant with PhysioNet credentialing and data access requirements
-<<<<<<< HEAD
 
 AI Dilligence Statement:
 
